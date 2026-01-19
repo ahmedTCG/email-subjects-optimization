@@ -1,0 +1,31 @@
+subject_norm,subject,total_sendings,total_opens,open_rate,wilson_score
+herzlichen glückwunsch glückwunsch glückwunsch glückwunsch du hast gewonnen,"Herzlichen{% if contact.1 == '{{ contact.1 }} ' %}{% if contact.1 == true %} Glückwunsch, {{ contact.1 }} {% else %} Glückwunsch {% endif %}{% else %}{% if contact.1 == true %} Glückwunsch, {{ contact.1 }} {% else %} Glückwunsch {% endif %}{% endif %} – du hast gewonnen! &#x1f389;",542,432,0.7970479704797048,0.7611513699478581
+highly discounted canvas premium prints,Highly discounted Canvas & Premium Prints,523843,352196,0.6723312137415218,0.6710588980303953
+most popular formats highly reduced,Most popular formats highly reduced!,501382,336477,0.6710990821369734,0.6697973138002598
+mega sale gigantic canvases for each,Mega Sale: Gigantic Canvases for £22 each,527528,353574,0.6702468873690117,0.6689769918388896
+off giant canvas print,80% off giant Canvas Print!,529078,353562,0.6682606345378186,0.6669906913494432
+big canvas print premium frame,Big Canvas Print £20 + Premium Frame £15,503435,335341,0.6661058527913236,0.6648018416935131
+lowest prices on our most popular products,Lowest prices on our most popular products,577097,383072,0.6637913556993018,0.6625714143653506
+days up to on canvases,2 days: Up to -75% on 3 Canvases!,542587,356864,0.6577083490758164,0.6564447224392318
+xxl canvas for only,XXL Canvas for only £22,84208,55539,0.6595454113623409,0.6563375983318878
+hours xxl canvas only,(48 hours) XXL Canvas only £22,555123,364124,0.6559339101424368,0.654683115714806
+remember remember your holiday photos deserve the big stage,"{% if contact.1 == '' %}{% if contact.5 == 1 %} {{ contact.1 }}, {% elseif contact.5 == 2 %} {{ contact.1 }}, {% else %} remember: {% endif %}{% else %}{% if contact.5 == 1 %} {{ contact.1 }}, {% elseif contact.5 == 2 %} {{ contact.1 }}, {% else %} Remember: {% endif %}{% endif %}your holiday photos deserve the big stage!",590966,385531,0.6523742482647056,0.651159092134361
+two days canvas mug cushion,Two days - Canvas £12 - Mug £5 - Cushion £10,532129,335452,0.6303960129968486,0.6290981276878048
+off a giant canvas print,80% off a giant Canvas Print!,61086,36815,0.6026749173296664,0.5987879692988345
+save up to on wall and home décors,Save up to -84% on Wall and Home Décors &#x1f60d; ,9315,5418,0.5816425120772947,0.5715931996967109
+wow photo products starting from only,Wow! Photo Products starting from only $6.90!,8264,4784,0.5788964181994192,0.568216920960246
+you are one of our most loyal customers,"You are one of our most loyal customers{% if contact.1 == '' %}!{% else %}, {{ contact.1 }}!{% endif %}",45696,26002,0.5690213585434174,0.5644751865931522
+canvas mug cushion,Canvas £12 - Mug £5 - Cushion £10,60689,34380,0.5664947519319811,0.5625479431797131
+welcome to our redesigned shop,&#x1f973; Welcome to Our Redesigned Shop! ,17152,9600,0.5597014925373134,0.5522595987746813
+unveiling our revamped look your exclusive gift inside,Unveiling our revamped look: Your exclusive $10 gift Inside! &#x2b50;,62118,34481,0.5550887021475257,0.5511773185877373
+elevate your reading haven and save up to,Elevate your reading haven and save up to 81%,4856,2744,0.5650741350906096,0.5510844436462345
+take your chance discounts up to,&#x1f4b0; Take your chance! Discounts up to 86%!,41940,23270,0.5548402479732952,0.5500789810990877
+dont miss exclusive gift inside,&#x23f0;Dont miss: Exclusive $ 10 gift Inside!,93663,51687,0.5518401076198712,0.5486531507527767
+redesigned and ready for you savings on your next order,Redesigned and ready for You: $10 savings on your next order! &#x1f4b3;,49860,27504,0.551624548736462,0.5472553519495363
+new sale canvases photo gifts discounted by up to,&#x1f6a8; New sale: Canvases & Photo Gifts discounted by up to 79%!,8472,4720,0.5571293673276676,0.5465284240721694
+sale almost over last days of discounts up to,SALE almost over: last 3 days of discounts up to -89%! &#x26a0;&#xfe0f;,6554,3656,0.5578272810497407,0.5457728877211208
+wall decorations up to off,&#x1f6a8; Wall Decorations up to 79% off!,6354,3540,0.5571293673276676,0.5448847423764919
+massive sale on all canvases until saturday,Massive sale on all Canvases - Until Saturday,4288,2400,0.5597014925373134,0.5447959194188376
+women s day special unlock up to discounts,Women's Day Special: Unlock up to -84% discounts! &#x1f31f;,5285,2950,0.5581835383159887,0.5447572303199522
+exclusive offer wall and home décor starting from,&#x1f525; Exclusive offer: Wall and Home Décor starting from $6.90,168353,91938,0.5461025345553687,0.5437232369677575
+celebrate the womans day canvas prints from,Celebrate the Womans Day - Canvas prints from $10.90 &#x1f339;,149904,81306,0.5423871277617676,0.5398640261023153
