@@ -5,7 +5,12 @@ from src.subject_ranker import rank_subjects
 
 def main():
     parser = argparse.ArgumentParser(description="Rank email subject lines using Wilson lower bound.")
-    parser.add_argument("--input", required=True, help="Path to input CSV (must include subject, sendings, opens).")
+    parser.add_argument(
+    "--input",
+    default="En SubjectLines.csv",
+    help="Path to input CSV (default: En SubjectLines.csv)"
+)
+
     parser.add_argument("--min-sendings", type=int, default=50, help="Minimum sendings threshold (default: 50).")
     parser.add_argument("--output", default="outputs/wilson_ranked.csv", help="Output CSV path.")
     parser.add_argument("--top", type=int, default=30, help="Also save top N to outputs/top_email_subjects_wilson.csv")

@@ -80,4 +80,3 @@ This analysis answers one key question:
 
 The results are statistically defensible and suitable for guiding future email campaign decisions.
 
-
